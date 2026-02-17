@@ -1,18 +1,14 @@
-# Hi 👋, I'm .
+# wsg I'm sanjay
 
-### A budding Html developer
+### A budding developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zdfsj&label=Profile views&color=0e75b6&style=flat" alt="zdfsj" /> </p>
 
-- 👯 I'm looking to collaborate on **open source**
+- I'm looking to collaborate on **open source**
 
-- 🤝 I'm looking for help with **yomo**
+- Ask me about whateevrr u want
 
-- 💬 Ask me about **whateevrr u want
-**
-
-- ⚡ Fun fact **very funny
-**
+- Fun fact very funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
